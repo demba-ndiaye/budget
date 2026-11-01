@@ -1,0 +1,8 @@
+{
+  "name": "Budget Familial",
+  "description": "Application de gestion complète du budget familial, des revenus, des charges fixes, des dépenses et des objectifs d'épargne.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
